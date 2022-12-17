@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Snake animation](https://github.com/GustSR/GustSR/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **GustSR/GustSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
