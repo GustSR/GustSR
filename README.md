@@ -1,6 +1,12 @@
 <h1 align="center"> Olá eu sou Gustavo Reis 👋</h1>
 <p>
-    <a href="https://github.com/GustSR/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=GustSR&show_icons=true&theme=gruvbox" /></a><img src="https://user-images.githubusercontent.com/109493884/208352321-337abffe-7386-4fe7-837e-46b303a1b9d7.gif" align="center" style="width: 100%" />
+    <a href="https://github.com/GustSR/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=GustSR&show_icons=true&theme=gruvbox" /></a>
+ 
+<br>
+    
+<div align= "center">
+    <img src="https://user-images.githubusercontent.com/109493884/208352321-337abffe-7386-4fe7-837e-46b303a1b9d7.gif" align="center"/>
+</div>
 </p>
 
 
@@ -9,7 +15,6 @@
 <br>
 <br>
 <br>
-
 
 
 <h2 align="center">Linguagens que estou estudando:</h2>
