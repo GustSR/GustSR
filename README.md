@@ -22,14 +22,13 @@
 <br/>
 
 
+<samp>
+    <p align=¨center¨>
+        <a href="https://github.com/GustSR/github-readme-stats"><img align="center" width="15%" src="https://komarev.com/ghpvc/?                                        username=GustSR&color=brightgreen" /></a> 
+        <a href="https://github.com/GustSR/github-readme-stats"><img align="center" width="15%" src="https://visitor-badge.glitch.me/badge?                            page_id=GustSR.GustSR" /></a>
 
-
-<p>
-    <a href="https://github.com/GustSR/github-readme-stats"><img align="center" width="15%" src="https://komarev.com/ghpvc/?username=GustSR&color=brightgreen" /></a> <a href="https://github.com/GustSR/github-readme-stats"><img align="center" width="10%" src="https://visitor-badge.glitch.me/badge?page_id=GustSR.GustSR" /></a>
-    
-</p>
-
-
+    </p>
+</samp>
 
 
 
