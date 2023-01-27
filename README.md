@@ -6,7 +6,7 @@
 
 
 
-##Linguagens que estou estudando:
+<h2>Linguagens que estou estudando:</h2>
 
 ![progress](https://progress-bar.dev/40/?title=python)![progress](https://progress-bar.dev/10/?title=HTML)![progress](https://progress-bar.dev/10/?title=CSS)
 
