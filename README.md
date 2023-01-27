@@ -10,7 +10,7 @@
 
 ![progress](https://progress-bar.dev/40/?title=python)![progress](https://progress-bar.dev/10/?title=HTML)![progress](https://progress-bar.dev/10/?title=CSS)
 
-![](https://komarev.com/ghpvc/?username=GustSR&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=GustSR.GustSR) 
+
 
 
 
@@ -24,7 +24,9 @@
 
 
 
-
+<p>
+    ![](https://komarev.com/ghpvc/?username=GustSR&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=GustSR.GustSR)   
+</p>
 
 
 
