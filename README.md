@@ -39,7 +39,7 @@
 <br>
 
 <p align="center">
-    <a href="https://github.com/GustSR/github-readme-stats"><img align="center" width="15%" src="https://komarev.com/ghpvc/?                                        username=GustSR&color=brightgreen" /></a><a href="https://github.com/GustSR/github-readme-stats">
+    <a href="https://github.com/GustSR/github-readme-stats"><img align="right" width="15%" src="https://komarev.com/ghpvc/?                                        username=GustSR&color=brightgreen" /></a><a href="https://github.com/GustSR/github-readme-stats">
 </p>
 
 
