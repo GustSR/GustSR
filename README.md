@@ -1,6 +1,7 @@
 <h1 align="center"> Olá eu sou Gustavo Reis 👋</h1>
-
-![GustSR GitHub stats](https://github-readme-stats.vercel.app/api?username=GustSR&show_icons=true&theme=gruvbox) ![87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3](https://user-images.githubusercontent.com/109493884/208352321-337abffe-7386-4fe7-837e-46b303a1b9d7.gif)
+<p>
+    <a href="https://github.com/GustSR/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=GustSR&show_icons=true&theme=gruvbox" /></a><img src="https://user-images.githubusercontent.com/109493884/208352321-337abffe-7386-4fe7-837e-46b303a1b9d7.gif" align="center" style="width: 100%" />
+</p>
 
 
 <br>
@@ -16,13 +17,12 @@
     <img src="https://progress-bar.dev/40/?title=python"/>
     <img src="https://progress-bar.dev/10/?title=HTML"/>
     <img src="https://progress-bar.dev/10/?title=CSS"/>
-    
+</p>
 <br>
 <br>
 <br>
 <br>
 <br>
-
 
     
 <h2 align="center"> Github Stats </h2> 
