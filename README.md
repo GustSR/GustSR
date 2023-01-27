@@ -25,7 +25,7 @@
 
 
 <p>
-    <a href="https://github.com/GustSR/github-readme-stats"><img align="left" width="42%" src="https://komarev.com/ghpvc/?username=GustSR&color=brightgreen" /></a>
+    <a href="https://github.com/GustSR/github-readme-stats"><img align="left" width="15%" src="https://komarev.com/ghpvc/?username=GustSR&color=brightgreen" /></a>
     
     ![](https://komarev.com/ghpvc/?username=GustSR&color=brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=GustSR.GustSR)   
 </p>
