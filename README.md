@@ -25,15 +25,13 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="50"/> </a>
     <img src="https://github.com/GustSR/GustSR/blob/main/assets/python.svg" width="60" height="50"/>
     <img src="https://github.com/GustSR/GustSR/blob/main/assets/git.svg" width="100" height="50"/>
-   
-    <!--
-    <img src="https://progress-bar.dev/40/?title=python"/>
-    <img src="https://progress-bar.dev/10/?title=HTML"/>
-    <img src="https://progress-bar.dev/10/?title=CSS"/>
-    -->
-    
+      
 </p>
-
+<!--
+<img src="https://progress-bar.dev/40/?title=python"/>
+<img src="https://progress-bar.dev/10/?title=HTML"/>
+<img src="https://progress-bar.dev/10/?title=CSS"/>
+-->
 
 <br>
 <br>
