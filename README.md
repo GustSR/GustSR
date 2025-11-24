@@ -95,21 +95,21 @@
 <td width="50%" align="center">
   <p align="center">
     <a href="URL_DO_SEU_PROJETO_1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustSR&repo=NOME_DO_REPO_1&theme=radical" alt="Card do Projeto 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustSR&repo=oncabito-gaming-bot&theme=radical" alt="Card do Projeto 1"/>
     </a>
   </p>
   <p align="center">
-    <b>Nome do Projeto 1</b>: Breve descrição do que o projeto faz, quais tecnologias usou e qual problema ele resolve.
+    <b>OnCabito Gaming Bot</b>: Bot para Telegram focado em moderação e gestão de comunidades gamer, com verificação automática de usuários e abertura de tickets de suporte via integração com o ERP HubSoft.
   </p>
 </td>
 <td width="50%" align="center">
   <p align="center">
     <a href="URL_DO_SEU_PROJETO_2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustSR&repo=NOME_DO_REPO_2&theme=radical" alt="Card do Projeto 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustSR&repo=RJChronosConnect&theme=radical" alt="Card do Projeto 2"/>
     </a>
   </p>
   <p align="center">
-    <b>Nome do Projeto 2</b>: Breve descrição do que o projeto faz, quais tecnologias usou e qual problema ele resolve.
+    <b>RJChronosConnect</b>: Plataforma de gestão e monitoramento de equipamentos de rede (TR-069), com frontend em React, API em FastAPI (Python) e orquestração de serviços com Docker.
   </p>
 </td>
 </tr>
