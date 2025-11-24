@@ -115,7 +115,7 @@
 </tr>
 </table>
 
-**➡️ OBSERVAÇÃO:** *Substitua `NOME_DO_REPO_1` e `NOME_DO_REPO_2` pelos nomes reais dos seus repositórios para gerar os cards automaticamente!*
+
 
 ---
 
