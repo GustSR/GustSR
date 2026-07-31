@@ -78,7 +78,7 @@ OUT.write_text(f"""<!doctype html>
 <meta charset="utf-8">
 <style>
   * {{ margin:0; padding:0; box-sizing:border-box; }}
-  html,body {{ width:1200px; overflow:hidden; }}
+  html,body {{ width:1200px; overflow:hidden; background:#0a0c10; }}
   .card {{
     position:relative; width:1200px; padding:40px 46px 30px; background:#0a0c10;
     background-image: radial-gradient(circle at 1px 1px, rgba(148,163,184,.15) 1px, transparent 0);
