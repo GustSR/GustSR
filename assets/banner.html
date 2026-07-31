@@ -1,0 +1,64 @@
+<!doctype html>
+<meta charset="utf-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html,body { width:1200px; height:300px; overflow:hidden; }
+  .wrap {
+    position:relative; width:1200px; height:300px; background:#0a0c10;
+    background-image: radial-gradient(circle at 1px 1px, rgba(148,163,184,.15) 1px, transparent 0);
+    background-size:22px 22px;
+    font-family:"SF Pro Display","SF Pro Text",-apple-system,"Helvetica Neue",sans-serif;
+    color:#f1f5f9; overflow:hidden;
+  }
+  .glow { position:absolute; right:-120px; top:-200px; width:720px; height:720px; border-radius:50%;
+          background:radial-gradient(circle, rgba(45,212,191,.16), transparent 60%); }
+  .edge { position:absolute; left:0; top:0; width:3px; height:300px;
+          background:linear-gradient(180deg, transparent, #2dd4bf 30%, #2dd4bf 70%, transparent); opacity:.9; }
+  .content { position:absolute; left:76px; top:0; height:300px; display:flex; flex-direction:column; justify-content:center; z-index:3; }
+  .kicker { font-size:12px; letter-spacing:3.6px; text-transform:uppercase; color:#2dd4bf; font-weight:600; margin-bottom:15px; }
+  h1 { font-size:66px; font-weight:700; letter-spacing:-2.2px; line-height:1; }
+  .role { margin-top:17px; font-size:18.5px; color:#94a3b8; font-weight:400; }
+  .role span { color:#e2e8f0; font-weight:600; }
+  .stack { margin-top:20px; display:flex; gap:8px; }
+  .chip { font-family:"SF Mono",Menlo,monospace; font-size:11.5px; color:#94a3b8;
+          border:1px solid #1e293b; background:rgba(15,23,42,.7); padding:5px 11px; border-radius:5px; letter-spacing:.4px; }
+  svg.iso { position:absolute; right:38px; top:50%; transform:translateY(-50%); z-index:1; }
+</style>
+<div class="wrap">
+  <div class="glow"></div>
+  <div class="edge"></div>
+  <svg class="iso" width="340" height="290" viewBox="0 0 340 290" fill="none">
+    <g stroke="#2dd4bf" stroke-width="1.5" stroke-linejoin="round">
+      <g stroke-opacity=".50">
+        <path d="M50 62 L170 8 L290 62 L170 116 Z"/>
+        <path d="M50 62 L50 92 L170 146 L290 92 L290 62"/>
+        <path d="M170 116 L170 146"/>
+      </g>
+      <g stroke-opacity=".33">
+        <path d="M50 128 L170 74 L290 128 L170 182 Z"/>
+        <path d="M50 128 L50 158 L170 212 L290 158 L290 128"/>
+        <path d="M170 182 L170 212"/>
+      </g>
+      <g stroke-opacity=".18">
+        <path d="M50 194 L170 140 L290 194 L170 248 Z"/>
+        <path d="M50 194 L50 224 L170 278 L290 224 L290 194"/>
+        <path d="M170 248 L170 278"/>
+      </g>
+    </g>
+    <g fill="#2dd4bf">
+      <circle cx="80" cy="82" r="3" fill-opacity=".9"/>
+      <circle cx="95" cy="89" r="3" fill-opacity=".45"/>
+      <circle cx="80" cy="148" r="3" fill-opacity=".6"/>
+      <circle cx="95" cy="155" r="3" fill-opacity=".3"/>
+      <circle cx="80" cy="214" r="3" fill-opacity=".35"/>
+    </g>
+  </svg>
+  <div class="content">
+    <div class="kicker">Backend · Infraestrutura · Dados</div>
+    <h1>Gustavo Reis</h1>
+    <div class="role">Sistemas tributários municipais e plataformas para <span>provedores de internet</span></div>
+    <div class="stack">
+      <span class="chip">python</span><span class="chip">postgresql</span><span class="chip">fastapi</span><span class="chip">ansible</span><span class="chip">kubernetes</span><span class="chip">docker</span>
+    </div>
+  </div>
+</div>

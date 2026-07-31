@@ -1,10 +1,6 @@
-### Gustavo Reis
+<img src="assets/banner.png" alt="Gustavo Reis — Backend, Infraestrutura e Dados. Sistemas tributários municipais e plataformas para provedores de internet.">
 
-Desenvolvedor **backend e infraestrutura**. Vim de operações de rede (NOC/ISP) e atuo nas duas pontas — escrevo a aplicação, modelo o banco e opero o servidor onde ela roda.
-
-Experiência em **sistemas de arrecadação tributária municipal** (ISS, NFS-e, IPTU e imobiliário, ITBI, dívida ativa, parcelamento, Simples Nacional e PGDAS) e em **plataformas para provedores de internet** — provisionamento e diagnóstico de rede, telefonia, cobrança e integração com ERP.
-
-<img src="https://skillicons.dev/icons?i=py,ts,cs,postgres,redis,fastapi,dotnet,react,docker,kubernetes,ansible,linux&theme=dark" alt="Python, TypeScript, C#, PostgreSQL, Redis, FastAPI, .NET, React, Docker, Kubernetes, Ansible, Linux">
+Vim de operações de rede (NOC/ISP) e migrei pra desenvolvimento sem largar a infra — escrevo a aplicação, modelo o banco e opero o servidor onde ela roda. Experiência em arrecadação municipal (ISS, NFS-e, IPTU e imobiliário, ITBI, dívida ativa, parcelamento, Simples Nacional e PGDAS) e em plataformas para ISP — provisionamento e diagnóstico de rede, telefonia, cobrança e integração com ERP.
 
 **Linguagens** — Python · TypeScript · JavaScript · C# · SQL / PL-pgSQL · PHP · Bash · Java · Swift
 
