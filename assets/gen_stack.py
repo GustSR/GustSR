@@ -8,6 +8,27 @@ OUT = pathlib.Path(__file__).parent / "stack.html"
 # (slug, rótulo). slug None = sem logo, vira chip só de texto.
 COLS = [
     [
+        ("Infraestrutura", [
+            ("linux", "Linux"), ("debian", "Debian"), ("docker", "Docker"),
+            ("kubernetes", "Kubernetes"), ("rancher", "Rancher"), ("ansible", "Ansible"),
+            ("proxmox", "Proxmox"), ("vmware", "VMware"), ("nginx", "Nginx"),
+            ("traefikproxy", "Traefik"), ("cloudflare", "Cloudflare"), ("apachetomcat", "Tomcat"),
+        ]),
+        ("Redes, segurança e observabilidade", [
+            ("asterisk", "Asterisk"), ("pfsense", "pfSense"), ("mikrotik", "Mikrotik"),
+            ("wireguard", "WireGuard"), ("openvpn", "OpenVPN"), ("grafana", "Grafana"),
+            ("prometheus", "Prometheus"), ("sentry", "Sentry"),
+        ]),
+        ("Bancos de dados", [
+            ("postgresql", "PostgreSQL"), ("mysql", "MySQL"), ("mongodb", "MongoDB"),
+            ("redis", "Redis"), ("clickhouse", "ClickHouse"), ("sqlite", "SQLite"),
+        ]),
+        ("Ferramentas", [
+            ("git", "Git"), ("githubactions", "Actions"), ("precommit", "pre-commit"),
+            ("pytest", "pytest"), ("vitest", "Vitest"), ("postman", "Postman"),
+        ]),
+    ],
+    [
         ("Linguagens", [
             ("python", "Python"), ("typescript", "TypeScript"), ("javascript", "JavaScript"),
             ("csharp", "C#"), ("php", "PHP"), ("gnubash", "Bash"),
@@ -24,27 +45,6 @@ COLS = [
             ("tailwindcss", "Tailwind"), ("shadcnui", "shadcn/ui"), ("mui", "MUI"),
             ("reactquery", "TanStack"), ("reacthookform", "Hook Form"), ("zod", "Zod"),
             ("streamlit", "Streamlit"),
-        ]),
-    ],
-    [
-        ("Bancos de dados", [
-            ("postgresql", "PostgreSQL"), ("mysql", "MySQL"), ("mongodb", "MongoDB"),
-            ("redis", "Redis"), ("clickhouse", "ClickHouse"), ("sqlite", "SQLite"),
-        ]),
-        ("Infraestrutura", [
-            ("linux", "Linux"), ("debian", "Debian"), ("docker", "Docker"),
-            ("kubernetes", "Kubernetes"), ("rancher", "Rancher"), ("ansible", "Ansible"),
-            ("proxmox", "Proxmox"), ("vmware", "VMware"), ("nginx", "Nginx"),
-            ("traefikproxy", "Traefik"), ("cloudflare", "Cloudflare"), ("apachetomcat", "Tomcat"),
-        ]),
-        ("Redes, segurança e observabilidade", [
-            ("asterisk", "Asterisk"), ("pfsense", "pfSense"), ("mikrotik", "Mikrotik"),
-            ("wireguard", "WireGuard"), ("openvpn", "OpenVPN"), ("grafana", "Grafana"),
-            ("prometheus", "Prometheus"), ("sentry", "Sentry"),
-        ]),
-        ("Ferramentas", [
-            ("git", "Git"), ("githubactions", "Actions"), ("precommit", "pre-commit"),
-            ("pytest", "pytest"), ("vitest", "Vitest"), ("postman", "Postman"),
         ]),
     ],
 ]
